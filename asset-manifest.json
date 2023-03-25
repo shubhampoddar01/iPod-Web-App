@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/iPod-Web-App/static/css/main.55169e47.css",
+    "main.js": "/iPod-Web-App/static/js/main.0de84893.js",
+    "static/media/yummy.mp3": "/iPod-Web-App/static/media/yummy.4bd6ed59af6c9a878b76.mp3",
+    "static/media/stay.mp3": "/iPod-Web-App/static/media/stay.c66de23e4e56a65f7748.mp3",
+    "static/media/senorita.mp3": "/iPod-Web-App/static/media/senorita.d947f014c0d0a09a637a.mp3",
+    "static/media/allsongs.gif": "/iPod-Web-App/static/media/allsongs.9d80c8e94b0622c75dc1.gif",
+    "static/media/wallpaper2.jpg": "/iPod-Web-App/static/media/wallpaper2.5337cfb6086cf85bab4b.jpg",
+    "static/media/albums.png": "/iPod-Web-App/static/media/albums.9b3c7f6e5cc6d9043dc2.png",
+    "static/media/wallpaper5.jpg": "/iPod-Web-App/static/media/wallpaper5.9b436829d9f7342f55d1.jpg",
+    "static/media/yummy.jpg": "/iPod-Web-App/static/media/yummy.f85dd9e1c014e9471c5f.jpg",
+    "static/media/artists.jpg": "/iPod-Web-App/static/media/artists.aef12780d6f700f792a4.jpg",
+    "static/media/wallpaper1.jpg": "/iPod-Web-App/static/media/wallpaper1.6b3ffcf5d899fb09e7ef.jpg",
+    "static/media/senorita.jpg": "/iPod-Web-App/static/media/senorita.9cfc85a3cd84c98f6a27.jpg",
+    "static/media/wallpaper4.jpg": "/iPod-Web-App/static/media/wallpaper4.07cbf2d47841b809b385.jpg",
+    "static/media/wallpaper3.jpg": "/iPod-Web-App/static/media/wallpaper3.94e1677ce0bdae23313e.jpg",
+    "static/media/coverflow.png": "/iPod-Web-App/static/media/coverflow.a9130ea0cdda18cf6216.png",
+    "static/media/stay.jpg": "/iPod-Web-App/static/media/stay.e847d56aa50a2636cf4d.jpg",
+    "static/media/games.jpeg": "/iPod-Web-App/static/media/games.7c6a04d68d3bfb014524.jpeg",
+    "index.html": "/iPod-Web-App/index.html",
+    "main.55169e47.css.map": "/iPod-Web-App/static/css/main.55169e47.css.map",
+    "main.0de84893.js.map": "/iPod-Web-App/static/js/main.0de84893.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55169e47.css",
+    "static/js/main.0de84893.js"
+  ]
+}
