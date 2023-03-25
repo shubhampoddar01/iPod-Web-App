@@ -14,3 +14,8 @@ Built an iPod Web App using React.js.
 - A sub menu is inside Menu like in Music option, it has sub menu with options 'All songs', 'Artists' etc.
 - Inside settings menu, theme can be changed to dark or to light by clicking the center button.
 
+
+## Deployment
+
+To run the app: https://shubhampoddar01.github.io/iPod-Web-App/
+
